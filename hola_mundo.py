@@ -1,2 +1,2 @@
 print("Hola Mundo")
-print("Dos, Cuatro, Seis, Ocho, Diez, Doce, Catorce")
+print("Uno, Tres, Cinco, Siete, Nueve, Once, Trece")
